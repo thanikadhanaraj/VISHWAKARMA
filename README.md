@@ -156,9 +156,7 @@ The system must not replace professional medical assessment or a validated emerg
 
 **Project Guide:** Nishanthini S, Assistant Professor, Department of Artificial Intelligence and Machine Learning.
 
-### 📄 License
 
-Choose an appropriate open-source license before distributing this project. For example, the MIT License permits reuse with attribution; add a `LICENSE` file if you select it.
 
 ---
 
